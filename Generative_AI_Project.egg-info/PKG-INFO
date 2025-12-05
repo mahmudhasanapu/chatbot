@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Generative-AI-Project
+Version: 0.0.0
+Author: Mahmud Hasan Apu
+Author-email: mahmud.hasan.apu23@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
